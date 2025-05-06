@@ -1,4 +1,2 @@
 streamlit 
-os
-zipfile
-shutil
+pillow
